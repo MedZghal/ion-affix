@@ -1,4 +1,4 @@
-import { Content, Scroll } from 'ionic-angular';
+import { Content, Scroll } from '@ionic/angular'
 import { ContentAdapter } from './content-adapter';
 import { ScrollAdapter } from './scroll-adapter';
 
